@@ -16,15 +16,18 @@ A simple and responsive restaurant menu webpage created using HTML and CSS. It d
 - Responsive layout
 - Clean and attractive interface
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```text
 Restaurant-Menu/
 ├── Output/
 │   ├── restaurant_menu_output1.png
 │   ├── restaurant_menu_output2.png
 │   └── restaurant_menu_output3.png
-├── README.md
 ├── index.html
-└── style.css
+├── style.css
+└── README.md
+```
 
 ## 🚀 How to Run
 
