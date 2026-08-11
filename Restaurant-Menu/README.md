@@ -1,42 +1,42 @@
 # 🍴 Restaurant Menu
 
-A simple and responsive restaurant menu webpage created using **HTML and CSS**. This project displays different food items along with their names, descriptions, and prices in a clean and attractive layout.
+A simple and responsive restaurant menu webpage created using HTML and CSS. It displays different food items with their images, names, descriptions, and prices in a clean and attractive design.
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
+- HTML5
+- CSS3
 
 ## ✨ Features
 
-* Clean and simple restaurant menu design
-* Food items displayed with images
-* Food names, descriptions, and prices
-* Responsive layout
-* Easy-to-use and visually appealing interface
+- Simple restaurant menu design
+- Food items with images
+- Food names and descriptions
+- Prices for food items
+- Responsive layout
+- Clean and attractive interface
 
 ## 📂 Project Structure
 
-```text
 Restaurant-Menu/
 │
+├── Output/
+│   ├── restaurant_menu_output1.png
+│   ├── restaurant_menu_output2.png
+│   └── restaurant_menu_output3.png
+│
+├── README.md
 ├── index.html
-├── style.css
-├── images/
-│   └── food images
-└── README.md
-```
+└── style.css
 
 ## 🚀 How to Run
 
-1. Download or clone this repository.
+1. Download or clone the repository.
 2. Open the `Restaurant-Menu` folder.
-3. Open `index.html` in any web browser.
+3. Open `index.html` in a web browser.
 4. The restaurant menu webpage will be displayed.
 
 ## 📸 Output
 
-The project displays a restaurant menu with different food items, images, descriptions, and prices.
-
-
+Screenshots of the restaurant menu are available in the `Output` folder.
 
