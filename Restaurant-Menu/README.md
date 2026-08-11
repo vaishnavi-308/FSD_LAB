@@ -20,7 +20,7 @@ A simple and responsive restaurant menu webpage created using HTML and CSS. It d
 
 Restaurant-Menu/
 │
-├── Output/
+├── Output/ 
 │   ├── restaurant_menu_output1.png
 │   ├── restaurant_menu_output2.png
 │   └── restaurant_menu_output3.png
