@@ -1,0 +1,129 @@
+/* General Styles */
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+
+/* Navbar */
+
+.navbar-brand {
+    font-size: 20px;
+}
+
+
+/* Hero Section */
+
+.hero {
+    background: linear-gradient(135deg, #198754, #20c997);
+    color: white;
+    padding: 70px 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero p {
+    max-width: 600px;
+}
+
+.hero-image {
+    width: 100%;
+    max-width: 500px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+
+/* Section Title */
+
+.section-title {
+    font-weight: bold;
+    color: #198754;
+}
+
+
+/* Blog Cards */
+
+.blog-card {
+    transition: transform 0.3s ease;
+    border: none;
+}
+
+.blog-card:hover {
+    transform: translateY(-8px);
+}
+
+.blog-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+
+/* Lifestyle Cards */
+
+#nutrition .shadow-sm {
+    transition: transform 0.3s ease;
+}
+
+#nutrition .shadow-sm:hover {
+    transform: translateY(-5px);
+}
+
+
+/* About Section */
+
+.about-section {
+    background: linear-gradient(135deg, #198754, #20c997);
+}
+
+
+/* Footer */
+
+footer {
+    background-color: #212529;
+    color: white;
+}
+
+
+/* Responsive Design */
+
+@media (max-width: 768px) {
+
+    .hero {
+        padding: 60px 15px;
+    }
+
+    .hero h1 {
+        font-size: 2.2rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+
+    .hero-image {
+        height: 280px;
+    }
+}
+
+
+@media (max-width: 576px) {
+
+    .hero h1 {
+        font-size: 1.9rem;
+    }
+
+    .navbar-brand {
+        font-size: 16px;
+    }
+
+    .hero-image {
+        height: 240px;
+    }
+}
